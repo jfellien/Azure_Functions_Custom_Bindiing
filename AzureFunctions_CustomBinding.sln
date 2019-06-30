@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableStorageEventStoreBinding", "TableStorageEventStoreBinding\TableStorageEventStoreBinding.csproj", "{AC7BD06D-9CB7-4D86-A560-E0F06C224730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCustomBinding", "TryCustomBinding\TryCustomBinding.csproj", "{FCB03296-E7E4-4FFE-AD5D-353017BBB6F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC7BD06D-9CB7-4D86-A560-E0F06C224730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7BD06D-9CB7-4D86-A560-E0F06C224730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7BD06D-9CB7-4D86-A560-E0F06C224730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7BD06D-9CB7-4D86-A560-E0F06C224730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB03296-E7E4-4FFE-AD5D-353017BBB6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB03296-E7E4-4FFE-AD5D-353017BBB6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB03296-E7E4-4FFE-AD5D-353017BBB6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB03296-E7E4-4FFE-AD5D-353017BBB6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+POST http://localhost:7071/api/store-event
+Content-Type: application/json
+
+{
+    "first_name" : "Janek",
+    "last_name" : "Fellien"
+}
